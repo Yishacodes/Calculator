@@ -9,15 +9,16 @@ body{
 
 .container{
 display: block;
-background: #Fff;
-    width:300px;
+background: #8b8282;
+    width:200px;
     height: 200px;
-    margin:20px auto;
+    margin: auto;
+
 }
 
 input{
     display: inline-block;
-margin: 3px;
+    width: 100%;
     background: var(--secondarycolor);
 }
 
