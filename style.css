@@ -1,0 +1,42 @@
+:root{
+    --primarycolor:#333;
+    --secondarycolor:#a5b9b5;
+}
+
+body{
+    background: var(--primarycolor);
+}
+
+.container{
+display: block;
+background: #Fff;
+    width:300px;
+    height: 200px;
+    margin:20px auto;
+}
+
+input{
+    display: inline-block;
+margin: 3px;
+    background: var(--secondarycolor);
+}
+
+
+h1{
+text-align: center;
+color:#d4e5c8
+}
+
+.operator:hover,.equal:hover,.clear:hover{
+    background-color: azure;
+}
+.clear{
+    background: #a51b1b;
+}
+.number{
+    background: #f8d7c3;
+}
+
+.number:hover{
+    background: #da5c0e;
+}
