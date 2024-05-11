@@ -16,6 +16,16 @@ background: #8b8282;
 
 }
 
+h3{
+    color:white;
+    padding-left: 15px;
+    text-align: center;
+}
+
+a{
+    color: black;
+}
+
 input{
     display: inline-block;
     width: 100%;
