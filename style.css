@@ -1,5 +1,5 @@
 :root{
-    --primarycolor:#333;
+    --primarycolor:#4d4747;
     --secondarycolor:#a5b9b5;
 }
 
@@ -9,7 +9,7 @@ body{
 
 .container{
 display: block;
-background: #8b8282;
+background: #1f0a0a;
     width:200px;
     height: 200px;
     margin: auto;
@@ -17,7 +17,7 @@ background: #8b8282;
 }
 
 h3{
-    color:white;
+    color:rgb(240, 232, 232);
     padding-left: 15px;
     text-align: center;
 }
@@ -35,7 +35,7 @@ input{
 
 h1{
 text-align: center;
-color:#d4e5c8
+color:#000000
 }
 
 .operator:hover,.equal:hover,.clear:hover{
